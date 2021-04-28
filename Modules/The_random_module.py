@@ -23,3 +23,35 @@ print("The random number generated is: ",random())
 print("The random numbers generated using randrange() function are: ")
 for i in range(0,100):
     print(randrange(1,1000),end=' ')
+
+
+
+
+#Program to show use of randrange() function from random module
+#from random import randrange
+
+#Roll the dice six times.
+for i in range(0,6):
+
+#Generate random number in the range 1....6.
+    number=randrange(1,6)
+#Display the result.
+    if number == 1:
+        print("one:*")
+
+    elif number == 2:
+        print("two:**")
+
+    elif number == 3:
+        print("three:***")
+
+    elif number == 4:
+        print("four:****")
+
+    elif number == 5:
+        print("five:*****")
+
+    elif number == 6:
+        print("six:******")
+    else:
+        print("***Error: illegal die number***")
