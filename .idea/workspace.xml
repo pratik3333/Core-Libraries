@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c83e26a-4d37-4de1-8002-d19eb5a9d83e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/tot_07.py" beforeDir="false" afterPath="$PROJECT_DIR$/Modules/tot_07.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tut_05.py" beforeDir="false" afterPath="$PROJECT_DIR$/Modules/tut_05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modules/Using_message_and_text_widget.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +32,7 @@
       <recent name="E:\core Libraries in python\Modules" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Using_lable_widget_in_grid_layout">
+  <component name="RunManager" selected="Python.Using_message_and_text_widget">
     <configuration name="Pack_Layou_And_Lable_Widget" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="core Libraries in python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -96,6 +96,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Using_message_and_text_widget" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="core Libraries in python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Modules" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Modules/Using_message_and_text_widget.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="creating_canvas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="core Libraries in python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -140,6 +161,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Using_message_and_text_widget" />
         <item itemvalue="Python.Using_lable_widget_in_grid_layout" />
         <item itemvalue="Python.creating_canvas" />
         <item itemvalue="Python.Pack_Layou_And_Lable_Widget" />
