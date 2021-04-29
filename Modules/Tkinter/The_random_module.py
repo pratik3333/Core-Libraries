@@ -7,7 +7,7 @@ print("The random number generated is: ",random())
 #The randrange() function return a pseudorandom integer value within a specified range.
 print("The random number generated using randrange() function are: ")
 
-for i in range(0,101):
+for i in range(0,100):
     print(randrange(0,10),end=' ')
 
 #program to use random(),seed(),and randrange() functions from random module
