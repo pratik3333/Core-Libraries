@@ -2,6 +2,7 @@ from tkinter import *
 root=Tk()
 
 root.geometry("655x333")
+root.title("Making Frame")
 f1=Frame(root,bg="grey",borderwidth=6,relief=SUNKEN)
 f1.pack(side="left",fill="y")
 
