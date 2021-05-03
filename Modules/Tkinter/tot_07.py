@@ -16,6 +16,11 @@ Thomas Cruise Mapother IV (born July 3, 1962) is an American actor and producer.
         font="comicsansms 10 bold",borderwidth=5,relief=SUNKEN )
 
 lable1.pack()
+<<<<<<< HEAD:Modules/Tkinter/tot_07.py
 
 lable1.pack(side="left",anchor="sw",fill="y")
 root.mainloop()
+=======
+lable1.pack(side="right",anchor="se",fill="y")
+root.mainloop()
+>>>>>>> be0db87d6c1c9fe40e104eccf47d8069d4e78f88:Modules/tot_07.py
