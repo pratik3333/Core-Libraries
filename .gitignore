@@ -3,3 +3,6 @@ venv/
 .idea/
 requirements.txt
 venv/
+
+
+venv//
